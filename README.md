@@ -55,20 +55,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sliwawoj&show_icons=true&theme=slate&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=cccccc&text_color=999999&bg_color=1c1c1c"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sliwawoj&layout=compact&theme=slate&hide=html,css&title_color=ffffff&text_color=999999&bg_color=1c1c1c"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Sliwawoj">
-    <img src="https://komarev.com/ghpvc/?username=Sliwawoj&color=777777&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-</div>
